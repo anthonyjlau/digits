@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/landing-page.png)
+<img src="doc/landing.png">
 
 Digits is an application that lets users view and edit a set of contacts and add timestamped notes about their interactions with them.
 
