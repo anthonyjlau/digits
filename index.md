@@ -86,14 +86,14 @@ When you retrieve the app at http://localhost:3000, it shows a landing page that
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-<img src="doc/login.png">
+<img src="doc/signin.png">
 
 
 ### Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-<img src="doc/register.png">
+<img src="doc/signup.png">
 
 
 ### User Home Page
