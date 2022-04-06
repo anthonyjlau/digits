@@ -4,7 +4,6 @@ import { AutoForm, ErrorsField, TextField, SubmitField, HiddenField } from 'unif
 import swal from 'sweetalert';
 import SimpleSchema2Bridge from 'uniforms-bridge-simple-schema-2';
 import PropTypes from 'prop-types';
-import { Contacts } from '../../api/contact/Contacts';
 import { Notes } from '../../api/note/Notes';
 
 const bridge = new SimpleSchema2Bridge(Notes.schema);
