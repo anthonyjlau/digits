@@ -107,14 +107,14 @@ Once you log in, the website shows the landing page but with an updated NavBar t
 
 On the add contact page, you can fill out a form to create a new contact to be added to the list.
 
-<img src="doc/addcontacts.png">
+<img src="doc/addcontact.png">
 
 
 ### List Contacts
 
 On the list contacts page, there is a collection of cards that contain contacts assocated with the logged in user.
 
-<img src="doc/listcontacts.png">
+<img src="doc/listcontact.png">
 
 
 Below the contact information, you can add a timestamped note about interactions you had with that contact. For example:
@@ -126,13 +126,13 @@ Below the contact information, you can add a timestamped note about interactions
 
 Also below the contact information is an edit button. Clicking on it brings you to the edit contact page where you can change the information for that contact.
 
-<img src="doc/editcontacts.png">
+<img src="doc/editcontact.png">
 
 
 ### AdminPage
 
 When the user is signed in as an "Admin," they can access the admin page which lists all contacts from every user.
 
-<img src="doc/register.png">
+<img src="doc/admin.png">
 
 Note that non-admin users cannot get to this page, even if they type in the URL by hand.
